@@ -1,10 +1,69 @@
-Hi , I’m @floiteyg, I'm Advanced Cloud Engineer and DEVOPS Engineer certified by Linux Foundation IT Professional Program, in adition, I have a lot of IT certifications, Kubernetes Certified Administrator, RHEL SysAdmin, RHEL Engineer, Openshift Certified Administrator, Microsoft Certified Solution Associate & Expert, Veeam Certified Engineer V9.5. 
-- 👀 I’m interested in Cloud services, Docker, Kubernetes, RHEL, Openshift.
-- 💞️ I’m looking to collaborate on Devops and cloud deployments (Azure and GCloud preferred).
-- 📫 To reach me, you can send me an email to fernando.loiteyg@gmail.com, you can also visit my LinkedIn Profile https://www.linkedin.com/in/floitey/ and my profile in Linux Foundation https://openprofile.dev/profile/floitey
+# Hi, I’m Fernando (@floiteyg) 👋  
 
+## Advanced Cloud Engineer | DevOps | Tech Content Creator  
 
-<!---
-floiteyg/floiteyg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Advanced Cloud & DevOps Engineer with 13+ years in IT infrastructure, specialized in:
+
+- Red Hat Enterprise Linux (RHEL)
+- OpenShift / Kubernetes
+- Linux Administration
+- Automation & DevOps
+- Infrastructure Content Creation
+
+Certified by Linux Foundation IT Professional Program, with multiple industry certifications including:
+
+- RHCSA / RHCE
+- OpenShift Administrator
+- Kubernetes Administrator
+- Microsoft Certified Solutions Associate & Expert
+- Veeam Certified Engineer
+- Linux Foundation Certifications
+
+---
+
+## Current Focus
+- Linux / RHEL Administration
+- OpenShift & Kubernetes
+- DevOps from an Infrastructure perspective
+- Cloud Deployments
+- Automation projects
+- Educational tech content for:
+  - TikTok → @floitey_dev
+  - Instagram → @floitey_dev
+  - YouTube → @floitey_dev
+
+---
+
+## Open to Collaborate On
+- DevOps projects
+- Cloud architecture
+- Linux training
+- OpenShift labs
+- SysAdmin educational initiatives
+- Technical content partnerships
+
+---
+
+## Content Mission
+Helping new and experienced IT professionals grow in:
+
+- Linux
+- SysAdmin
+- Red Hat
+- Kubernetes
+- OpenShift
+- DevOps
+
+Through practical, real-world infrastructure content.
+
+---
+
+## Contact
+- Email: fernando.loiteyg@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/floitey/  
+- Linux Foundation Profile: https://openprofile.dev/profile/floitey  
+
+---
+
+## Motto
+**“From SysAdmin to DevOps — infrastructure-first, real-world learning.”**
