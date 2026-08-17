@@ -1,69 +1,82 @@
-# Hi, I’m Fernando (@floiteyg) Floitey_Dev  
+# Hola, soy Fernando (@floiteyg) — Floitey_Dev
 
-## Advanced Cloud Engineer | DevOps | Tech Content Creator (floitey_dev) 
+## Ingeniero de Cloud e Infraestructura | DevOps | Creador de contenido técnico
 
-Advanced Cloud & DevOps Engineer with 13+ years in IT infrastructure, specialized in:
+Profesional de infraestructura con más de 13 años de experiencia en IT, especializado en tecnologías y plataformas empresariales:
 
-- Red Hat Enterprise Linux (RHEL)
-- OpenShift / Kubernetes
-- Linux Administration
-- Automation & DevOps
-- Infrastructure Content Creation
+* Red Hat Enterprise Linux (RHEL)
+* OpenShift / Kubernetes
+* Administración de sistemas Linux
+* Automatización y DevOps
+* Infraestructura y plataformas
+* Creación de contenido técnico
 
-Certified by Linux Foundation IT Professional Program, with multiple industry certifications including:
+Cuento con múltiples certificaciones de la industria, entre ellas:
 
-- RHCSA / RHCE
-- OpenShift Administrator
-- Kubernetes Administrator
-- Microsoft Certified Solutions Associate & Expert
-- Veeam Certified Engineer
-- Linux Foundation Certifications
-
----
-
-## Current Focus
-- Linux / RHEL Administration
-- OpenShift & Kubernetes
-- DevOps from an Infrastructure perspective
-- Cloud Deployments
-- Automation projects
-- Educational tech content for:
-  - TikTok → @floitey_dev
-  - Instagram → @floitey_dev
-  - YouTube → @floitey_dev
+* RHCSA / RHCE
+* Red Hat OpenShift Administrator
+* Certificaciones de Kubernetes
+* Microsoft Certified Solutions Associate & Expert
+* Veeam Certified Engineer
+* Linux Foundation Certifications
 
 ---
 
-## Open to Collaborate On
-- DevOps projects
-- Cloud architecture
-- Linux training
-- OpenShift labs
-- SysAdmin educational initiatives
-- Technical content partnerships
+## En qué estoy trabajando actualmente
+
+* Administración Linux / RHEL
+* OpenShift y Kubernetes
+* DevOps desde una perspectiva de Infraestructura
+* Contenedores
+* Automatización
+* Laboratorios y proyectos prácticos
+* Creación de contenido técnico y educativo
+
+También comparto contenido sobre Linux, infraestructura, certificaciones, OpenShift, contenedores y evolución profesional en:
+
+* TikTok → @floitey_dev
+* Instagram → @floitey_dev
+* YouTube → @floitey_dev
 
 ---
 
-## Content Mission
-Helping new and experienced IT professionals grow in:
+## Abierto a colaborar en
 
-- Linux
-- SysAdmin
-- Red Hat
-- Kubernetes
-- OpenShift
-- DevOps
-
-Through practical, real-world infrastructure content.
+* Proyectos de Infraestructura y DevOps
+* Arquitectura Cloud
+* Linux y Red Hat
+* Laboratorios de OpenShift y Kubernetes
+* Iniciativas educativas para SysAdmins
+* Comunidades técnicas
+* Colaboraciones de contenido técnico
 
 ---
 
-## Contact
-- Email: fernando.loiteyg@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/floitey/  
-- Linux Foundation Profile: https://openprofile.dev/profile/floitey  
+## Mi objetivo con el contenido
+
+Compartir experiencia real de infraestructura para ayudar a estudiantes y profesionales de IT a crecer en áreas como:
+
+* Linux
+* SysAdmin
+* Red Hat
+* Contenedores
+* Kubernetes
+* OpenShift
+* Automatización
+* DevOps
+
+Con un enfoque práctico, basado en laboratorios, experiencia profesional y problemas reales de infraestructura.
 
 ---
 
-## Motto
-**“From SysAdmin to DevOps — infrastructure-first, real-world learning.”**
+## Contacto
+
+* Email: [fernando.loiteyg@gmail.com](mailto:fernando.loiteyg@gmail.com)
+* LinkedIn: [linkedin.com/in/floitey](https://www.linkedin.com/in/floitey/)
+* Linux Foundation Profile: [openprofile.dev/profile/floitey](https://openprofile.dev/profile/floitey)
+
+---
+
+## Filosofía
+
+**“De SysAdmin a DevOps: infraestructura primero, aprendizaje desde la experiencia real.”**
