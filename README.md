@@ -2,7 +2,7 @@
 
 ## Ingeniero de Cloud e Infraestructura | DevOps | Creador de contenido técnico
 
-Profesional de infraestructura con más de 13 años de experiencia en IT, especializado en tecnologías y plataformas empresariales:
+Profesional de infraestructura con más de 15 años de experiencia en IT, especializado en tecnologías y plataformas empresariales:
 
 * Red Hat Enterprise Linux (RHEL)
 * OpenShift / Kubernetes
@@ -34,6 +34,7 @@ Cuento con múltiples certificaciones de la industria, entre ellas:
 
 También comparto contenido sobre Linux, infraestructura, certificaciones, OpenShift, contenedores y evolución profesional en:
 
+* Web → www.floitey.dev
 * TikTok → @floitey_dev
 * Instagram → @floitey_dev
 * YouTube → @floitey_dev
